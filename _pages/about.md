@@ -26,7 +26,7 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/trans-peft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/pdf/2506.06844)
@@ -36,7 +36,7 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/beamlora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BeamLoRA: Beam-Constraint Low-Rank Adaptation](https://arxiv.org/pdf/2502.13604)
