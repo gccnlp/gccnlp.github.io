@@ -23,6 +23,9 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025.
+- *2024.12*: &nbsp;🎉🎉 One papers is accepted by AAAI 2025.
+- *2024.05*: &nbsp;🎉🎉 One papers is accepted by ACL 2024.
+- *2023.05*: &nbsp;🎉🎉 One papers is accepted by ACL 2023.
 
 # 📝 Publications 
 
@@ -97,7 +100,9 @@ Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping W
 </div>
 
 
-
+# 📖 Educations
+* **Sept. 2022 - Now**: PhD student, Institute of Information Engineering (IIE), CAS & UCAS.
+* **Sept. 2018 - Jun. 2022**: Bachelor of Computer Science, China Agricultural University.
 
 # 💻 Internships
 - *2025.06 - Now*, Wenxin Rising Star Special Research Intern Program at the NLP Department, Baidu Inc.
