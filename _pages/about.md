@@ -27,7 +27,7 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2023.
 
-# 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=pLOm4rYAAAAJ&hl=en)
+# 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/trans-peft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
