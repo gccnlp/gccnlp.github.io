@@ -20,6 +20,8 @@ redirect_from:
 I am currently a third-year Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
 My research interests include parameter-efficient fine-tuning and efficient training of large language models.
 
+To date, I have published four long papers as the first author at ACL, one of which received the SAC Highlights Award (Top 1.5%).
+
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our [Trans-PEFT](https://arxiv.org/pdf/2506.06844) is selected for the [ACL2025 SAC Highlights Award (Top 1.5%)](https://2025.aclweb.org/program/awards/#sac-highlights).
@@ -33,7 +35,7 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/trans-peft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/pdf/2506.06844) (SAC Highlights Award, Top 1.5%)
+[Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/pdf/2506.06844) **(SAC Highlights Award, Top 1.5%)**
 
 **Naibin Gu**, Peng Fu, Xiyu Liu, Ke Ma, Zheng Lin, Weiping Wang
 
