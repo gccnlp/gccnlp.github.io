@@ -25,10 +25,9 @@ To date, I have published four long papers as the first author at ACL, one of wh
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our [Trans-PEFT](https://arxiv.org/pdf/2506.06844) is selected for the [ACL2025 SAC Highlights Award (Top 1.5%)](https://2025.aclweb.org/program/awards/#sac-highlights).
+- *2025.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2025.
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
-- *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2023.
 
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
 
