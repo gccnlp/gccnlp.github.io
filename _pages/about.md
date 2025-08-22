@@ -30,7 +30,7 @@ To date, I have published four long papers as the first author at ACL, one of wh
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
-
+## First-Author Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/trans-peft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,26 +61,6 @@ To date, I have published four long papers as the first author at ACL, one of wh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/DIVE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/pdf/2506.09351)
-
-Yuchen Feng, Bowen Shen, **Naibin Gu**, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/RETS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](https://arxiv.org/pdf/2408.15091)
-
-Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping Wang
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Light-PEFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,6 +81,26 @@ Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping W
 </div>
 </div>
 
+## Co-authored Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/DIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/pdf/2506.09351)
+
+Yuchen Feng, Bowen Shen, **Naibin Gu**, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/RETS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](https://arxiv.org/pdf/2408.15091)
+
+Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping Wang
+
+</div>
+</div>
 
 # 📖 Educations
 * **Sept. 2022 - Now**: PhD student, Institute of Information Engineering (IIE), CAS & UCAS.
