@@ -30,7 +30,7 @@ To date, I have published four long papers as the first author at ACL, one of wh
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
-## First-Author Papers
+## 🧍‍♂️ First-Author Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images/trans-peft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,7 +81,7 @@ To date, I have published four long papers as the first author at ACL, one of wh
 </div>
 </div>
 
-## Co-authored Papers
+## 👬 Co-authored Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/DIVE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
