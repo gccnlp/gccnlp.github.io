@@ -107,5 +107,5 @@ Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping W
 * **Sept. 2018 - Jun. 2022**: Bachelor of Computer Science, China Agricultural University.
 
 # 💻 Internships
-- *2025.06 - Now*, ERNIE Star Top Talent Research Intern at the NLP Department, Baidu Inc.
-- *2024.10 - 2025.05*, Research Intern at NLP Department, Baidu Inc.
+- *2025.06 - Now*, ERNIE Star Top Talent Research Intern at the NLP Department, Baidu Inc. Mentor: [Haifeng Wang](https://haifengwang.net/) and [Zhenyu Zhang](https://zhenyu.ac.cn/)
+- *2024.10 - 2025.05*, Research Intern at the NLP Department, Baidu Inc. Mentor: [Zhenyu Zhang](https://zhenyu.ac.cn/)
