@@ -51,6 +51,16 @@ To date, I have published four long papers as the first author at ACL, one of wh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main</div><img src='images/CBPTuning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](https://arxiv.org/abs/2509.12112)
+
+Jiaxuan Zhao*, **Naibin Gu**\*, Yuchen Feng, Xiyu Liu, Peng Fu, Zheng Lin, Weiping Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/APEX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
