@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
+I am a fourth-year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
 My research interests include parameter-efficient fine-tuning and efficient training of large language models.
 
 To date, I have published four long papers as the first author at ACL, one of which received the SAC Highlights Award (Top 1.5%).
