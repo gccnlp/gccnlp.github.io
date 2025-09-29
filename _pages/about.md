@@ -71,6 +71,16 @@ Jiaxuan Zhao*, **Naibin Gu**\*, Yuchen Feng, Xiyu Liu, Peng Fu, Zheng Lin, Weipi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts](https://arxiv.org/abs/2509.21892)
+
+**Naibin Gu**, Zhenyu Zhang, Yuchen Feng, Yilong Chen, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Light-PEFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
