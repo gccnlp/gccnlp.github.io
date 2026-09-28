@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
+I am a final year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
 My research interests include parameter-efficient fine-tuning and efficient training of large language models.
-
-To date, I have published four long papers as the first author at ACL, one of which received the SAC Highlights Award (Top 1.5%).
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Three papers are accepted by NIPS 2026.
+- *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2026.
 - *2025.08*: &nbsp;🎉🎉 Our [Trans-PEFT](https://arxiv.org/pdf/2506.06844) is selected for the [ACL2025 SAC Highlights Award (Top 1.5%)](https://2025.aclweb.org/program/awards/#sac-highlights).
 - *2025.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2025.
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
 ## 🧍‍♂️ First-Author Papers
