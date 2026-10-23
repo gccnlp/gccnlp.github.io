@@ -100,6 +100,6 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 * **Sept. 2018 - Jun. 2022**: Bachelor of Computer Science, China Agricultural University.
 
 # 💻 Internships
-- *2026.01 - *, Tech Genius Team (TGT) Intern at the Multimodal Understanding Department, JD Explore Academy, JD.com. Mentor: [Qingyi Si](https://phoebussi.github.io/)
+- *2026.01 - *, Tech Genius Team (TGT) Intern at the Multimodal Understanding Department, JD Explore Academy. Mentor: [Qingyi Si](https://phoebussi.github.io/)
 - *2025.06 - 2026.01*, ERNIE Star Top Talent Research Intern at the NLP Department, Baidu Inc. Mentor: [Haifeng Wang](https://haifengwang.net/) and [Zhenyu Zhang](https://zhenyu.ac.cn/)
 - *2024.10 - 2025.05*, Research Intern at the NLP Department, Baidu Inc. Mentor: [Zhenyu Zhang](https://zhenyu.ac.cn/)
