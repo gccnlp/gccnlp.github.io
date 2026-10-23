@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, under the joint supervision of Professors Peng Fu, Zheng Lin, and Weiping Wang.
-My research interests include parameter-efficient fine-tuning and efficient training of large language models.
+I am a final-year direct-entry PhD student at the Institute of Information Engineering, Chinese Academy of Sciences, jointly supervised by Professors Peng Fu, Zheng Lin, and Weiping Wang. My research focuses on **efficient post-training and efficient model architectures** for large language models. Previously, I had the privilege of being mentored by **[Dr. Haifeng Wang](https://haifengwang.net/)**.
 
 
 # 🔥 News
