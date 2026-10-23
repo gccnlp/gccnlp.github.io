@@ -32,9 +32,9 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
 ## 📄 Technical Reports
 
-- **[Technical Report 2026]** [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
+- **[Baidu Foundation Model Report]** [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
 
-- **[Technical Report 2026]** [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
+- **[Technical Report 2026]** [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
 
 
 ## ⚡ Efficient Post-Training
@@ -100,6 +100,5 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 * **Sept. 2018 - Jun. 2022**: Bachelor of Computer Science, China Agricultural University.
 
 # 💻 Internships
-- *2026.01 - *, Tech Genius Team (TGT) Intern at the Multimodal Understanding Department, JD Explore Academy. Mentor: [Qingyi Si](https://phoebussi.github.io/)
 - *2025.06 - 2026.01*, ERNIE Star Top Talent Research Intern at the NLP Department, Baidu Inc. Mentor: [Haifeng Wang](https://haifengwang.net/) and [Zhenyu Zhang](https://zhenyu.ac.cn/)
 - *2024.10 - 2025.05*, Research Intern at the NLP Department, Baidu Inc. Mentor: [Zhenyu Zhang](https://zhenyu.ac.cn/)
