@@ -45,14 +45,14 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 - **[NeurIPS 2026]** [Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083)
   <br>**Naibin Gu**, Chenxu Yang, Qingyi Si, Chuanyu Qin, Dingyu Yao, Peng Fu, Zheng Lin, Weiping Wang, Nan Duan, Jiaqi Wang
 
-- **[EMNLP 2025]** [CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](https://arxiv.org/abs/2509.12112)
-  <br>Jiaxuan Zhao<sup>*</sup>, **Naibin Gu**<sup>*</sup>, Yuchen Feng, Xiyu Liu, Peng Fu, Zheng Lin, Weiping Wang
-
 - **[ACL 2025 Oral]** [Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/abs/2506.06844) — **🥇 <span style="color: #c0392b;">SAC Highlights Award, Top 1.5%</span>**
   <br>**Naibin Gu**, Peng Fu, Xiyu Liu, Ke Ma, Zheng Lin, Weiping Wang
 
 - **[ACL 2025]** [BeamLoRA: Beam-Constraint Low-Rank Adaptation](https://arxiv.org/abs/2502.13604)
   <br>**Naibin Gu**, Zhenyu Zhang, Xiyu Liu, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
+
+- **[EMNLP 2025]** [CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](https://arxiv.org/abs/2509.12112)
+  <br>Jiaxuan Zhao<sup>*</sup>, **Naibin Gu**<sup>*</sup>, Yuchen Feng, Xiyu Liu, Peng Fu, Zheng Lin, Weiping Wang
 
 - **[Findings of ACL 2024]** [Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](https://aclanthology.org/2024.findings-acl.447/)
   <br>**Naibin Gu**, Peng Fu, Xiyu Liu, Bowen Shen, Zheng Lin, Weiping Wang
@@ -82,7 +82,7 @@ My research interests include parameter-efficient fine-tuning and efficient trai
   <br>Yuchen Feng<sup>*</sup>, Zhenyu Zhang<sup>*</sup>, **Naibin Gu**, Yilong Chen, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
 - **[ACL 2025]** [DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/abs/2506.09351)
-  <br>Yuchen Feng, Bowen Shen, **Naibin Gu**, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
+  <br>Yuchen Feng<sup>*</sup>, Bowen Shen<sup>*</sup>, **Naibin Gu**, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
 
 
 ## 🤝 Other Collaborative Papers
@@ -100,5 +100,6 @@ My research interests include parameter-efficient fine-tuning and efficient trai
 * **Sept. 2018 - Jun. 2022**: Bachelor of Computer Science, China Agricultural University.
 
 # 💻 Internships
+- *2026.01 - *, Tech Genius Team (TGT) Intern at the Multimodal Understanding Department, JD Explore Academy, JD.com. Mentor: [Qingyi Si](https://phoebussi.github.io/)
 - *2025.06 - 2026.01*, ERNIE Star Top Talent Research Intern at the NLP Department, Baidu Inc. Mentor: [Haifeng Wang](https://haifengwang.net/) and [Zhenyu Zhang](https://zhenyu.ac.cn/)
 - *2024.10 - 2025.05*, Research Intern at the NLP Department, Baidu Inc. Mentor: [Zhenyu Zhang](https://zhenyu.ac.cn/)
