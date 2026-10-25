@@ -29,67 +29,89 @@ I am a final-year direct-entry PhD student at the Institute of Information Engin
 - *2025.05*: &nbsp;🎉🎉 Three papers are accepted by ACL 2025.
 
 # 📝 Selected Publications ([Full List](https://scholar.google.com.hk/citations?user=SxrbtkwAAAAJ))
+<style>
+.pub-tag {
+  display: inline-block;
+  margin: 0 0.35em 0.2em 0;
+  padding: 0.15em 0.55em;
+  border-radius: 5px;
+  font-size: 0.78em;
+  font-weight: 600;
+  line-height: 1.5;
+  vertical-align: baseline;
+}
+.pub-tag--acl     { background: #e8f0fe; color: #2457a7; }
+.pub-tag--emnlp   { background: #ede9fe; color: #6343a5; }
+.pub-tag--neurips { background: #fce7ed; color: #a52d55; }
+.pub-tag--cvpr    { background: #e0f2f1; color: #176b63; }
+.pub-tag--ijcai   { background: #fff0df; color: #9a5010; }
+.pub-tag--aaai    { background: #eaf3e3; color: #426b27; }
+.pub-tag--report  { background: #e8eef4; color: #405b73; }
+.pub-tag--preprint { background: #f0f1f3; color: #555d68; }
+.pub-tag--award   { background: #fff4cc; color: #805c00; }
+</style>
+
 ## 📄 Technical Reports
 
-- **[Baidu Foundation Model Report]** [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
+- <span class="pub-tag pub-tag--report">Baidu Foundation Model Report</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
 
-- **[Technical Report 2026]** [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
+- <span class="pub-tag pub-tag--report">Technical Report 2026</span> [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
 
 
 ## ⚡ Efficient Post-Training
 
-- **[Preprint]** [CompassOPD: Cross-Family On-Policy Distillation via Within-Family Likelihood Shifts](https://arxiv.org/abs/2609.10154)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> [CompassOPD: Cross-Family On-Policy Distillation via Within-Family Likelihood Shifts](https://arxiv.org/abs/2609.10154)
   <br>**Naibin Gu**, Qingyi Si, Chenxu Yang, Chuanyu Qin, Junhao Zhou, Peng Fu, Zheng Lin, Weiping Wang
 
-- **[NeurIPS 2026]** [Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083)
+- <span class="pub-tag pub-tag--neurips">NeurIPS 2026</span> [Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083)
   <br>**Naibin Gu**, Chenxu Yang, Qingyi Si, Chuanyu Qin, Dingyu Yao, Peng Fu, Zheng Lin, Weiping Wang, Nan Duan, Jiaqi Wang
 
-- **[ACL 2025 Oral]** [Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/abs/2506.06844) — **🥇 <span style="color: #c0392b;">SAC Highlights Award, Top 1.5%</span>**
+- <span class="pub-tag pub-tag--acl">ACL 2025 Oral</span> [Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models](https://arxiv.org/abs/2506.06844) <span class="pub-tag pub-tag--award">🥇 SAC Highlights Award, Top 1.5%</span>
   <br>**Naibin Gu**, Peng Fu, Xiyu Liu, Ke Ma, Zheng Lin, Weiping Wang
 
-- **[ACL 2025]** [BeamLoRA: Beam-Constraint Low-Rank Adaptation](https://arxiv.org/abs/2502.13604)
+- <span class="pub-tag pub-tag--acl">ACL 2025</span> [BeamLoRA: Beam-Constraint Low-Rank Adaptation](https://arxiv.org/abs/2502.13604)
   <br>**Naibin Gu**, Zhenyu Zhang, Xiyu Liu, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
-- **[EMNLP 2025]** [CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](https://arxiv.org/abs/2509.12112)
+- <span class="pub-tag pub-tag--emnlp">EMNLP 2025</span> [CBP-Tuning: Efficient Local Customization for Black-box Large Language Models](https://arxiv.org/abs/2509.12112)
   <br>Jiaxuan Zhao<sup>*</sup>, **Naibin Gu**<sup>*</sup>, Yuchen Feng, Xiyu Liu, Peng Fu, Zheng Lin, Weiping Wang
 
-- **[Findings of ACL 2024]** [Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](https://aclanthology.org/2024.findings-acl.447/)
+- <span class="pub-tag pub-tag--acl">Findings of ACL 2024</span> [Light-PEFT: Lightening Parameter-Efficient Fine-Tuning via Early Pruning](https://aclanthology.org/2024.findings-acl.447/)
   <br>**Naibin Gu**, Peng Fu, Xiyu Liu, Bowen Shen, Zheng Lin, Weiping Wang
 
-- **[ACL 2023]** [A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning](https://aclanthology.org/2023.acl-long.194/)
+- <span class="pub-tag pub-tag--acl">ACL 2023</span> [A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning](https://aclanthology.org/2023.acl-long.194/)
   <br>**Naibin Gu**, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin, Weiping Wang
 
-- **[EMNLP 2025]** [Weights-Rotated Preference Optimization for Large Language Models](https://aclanthology.org/2025.emnlp-main.1329/)
+- <span class="pub-tag pub-tag--emnlp">EMNLP 2025</span> [Weights-Rotated Preference Optimization for Large Language Models](https://aclanthology.org/2025.emnlp-main.1329/)
   <br>Chenxu Yang, Ruipeng Jia, Mingyu Zheng, **Naibin Gu**, Zheng Lin, Siyuan Chen, Weichong Yin, Hua Wu, Weiping Wang
 
 
 ## 🧩 Efficient Model Architectures
 
-- **[Findings of EMNLP 2026]** [CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning](https://arxiv.org/abs/2608.27867)
+- <span class="pub-tag pub-tag--emnlp">Findings of EMNLP 2026</span> [CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning](https://arxiv.org/abs/2608.27867)
   <br>Runze Liu<sup>*</sup>, **Naibin Gu**<sup>*</sup>, Mingxu Ai, Yuqing Li, Peng Fu, Zheng Lin, Weiping Wang
 
-- **[Preprint]** [Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation](https://arxiv.org/abs/2603.04971)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> [Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation](https://arxiv.org/abs/2603.04971)
   <br>Yilong Chen<sup>*</sup>, **Naibin Gu**<sup>*</sup>, Junyuan Shang, Zhenyu Zhang, Yuchen Feng, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang
 
-- **[Preprint]** [Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts](https://arxiv.org/abs/2509.21892)
+- <span class="pub-tag pub-tag--preprint">Preprint</span> [Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts](https://arxiv.org/abs/2509.21892)
   <br>**Naibin Gu**, Zhenyu Zhang, Yuchen Feng, Yilong Chen, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
-- **[EMNLP 2026]** [Advantageous Parameter Expansion Training Makes Better Large Language Models](https://arxiv.org/abs/2505.24241)
+- <span class="pub-tag pub-tag--emnlp">EMNLP 2026</span> [Advantageous Parameter Expansion Training Makes Better Large Language Models](https://arxiv.org/abs/2505.24241)
   <br>**Naibin Gu**, Yilong Chen, Zhenyu Zhang, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
-- **[CVPR 2026]** [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](https://arxiv.org/abs/2512.10548)
+- <span class="pub-tag pub-tag--cvpr">CVPR 2026</span> [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](https://arxiv.org/abs/2512.10548)
   <br>Yuchen Feng<sup>*</sup>, Zhenyu Zhang<sup>*</sup>, **Naibin Gu**, Yilong Chen, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang
 
-- **[ACL 2025]** [DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/abs/2506.09351)
+- <span class="pub-tag pub-tag--acl">ACL 2025</span> [DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts](https://arxiv.org/abs/2506.09351)
   <br>Yuchen Feng<sup>*</sup>, Bowen Shen<sup>*</sup>, **Naibin Gu**, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang
 
 
 ## 🤝 Other Collaborative Papers
 
-- **[IJCAI 2026]** [Causal Path Alignment: Anchoring the Optimization Trajectory for Controllable In-Parameter Knowledge Editing](https://www.ijcai.org/proceedings/2026/655)
+- <span class="pub-tag pub-tag--ijcai">IJCAI 2026</span> [Causal Path Alignment: Anchoring the Optimization Trajectory for Controllable In-Parameter Knowledge Editing](https://www.ijcai.org/proceedings/2026/655)
   <br>Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Weiping Wang
 
-- **[AAAI 2025]** [Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](https://arxiv.org/abs/2408.15091)
+- <span class="pub-tag pub-tag--aaai">AAAI 2025</span> [Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](https://arxiv.org/abs/2408.15091)
   <br>Xiyu Liu, Zhengxiao Liu, **Naibin Gu**, Zheng Lin, Wanli Ma, Ji Xiang, Weiping Wang
 
 <small><sup>*</sup> Equal contribution.</small>
