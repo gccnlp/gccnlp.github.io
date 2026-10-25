@@ -44,7 +44,7 @@ I am a final-year direct-entry PhD student at the Institute of Information Engin
 .pub-tag--emnlp  { background: #e0f2f1; color: #176b63; }
 .pub-tag--neurips { background: #fce7ed; color: #a52d55; }
 .pub-tag--cvpr   { background: #e8f0fe; color: #2457a7; }
-.pub-tag--ijcai   { background: #fff0df; color: #9a5010; }
+.pub-tag--ijcai { background: #e8eaf6; color: #3949ab; }
 .pub-tag--aaai    { background: #eaf3e3; color: #426b27; }
 .pub-tag--report { background: #fff0df; color: #9a5010; }
 .pub-tag--preprint { background: #f0f1f3; color: #555d68; }
@@ -53,9 +53,9 @@ I am a final-year direct-entry PhD student at the Institute of Information Engin
 
 ## 📄 Technical Reports
 
-- <span class="pub-tag pub-tag--report">Baidu Foundation Model Report</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
+- <span class="pub-tag pub-tag--report">Foundation Model</span> [ERNIE 5.0 Technical Report](https://arxiv.org/abs/2602.04705)
 
-- <span class="pub-tag pub-tag--report">Technical Report 2026</span> [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
+- <span class="pub-tag pub-tag--report">Training Framework</span> [EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)
 
 
 ## ⚡ Efficient Post-Training
