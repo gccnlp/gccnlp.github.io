@@ -40,13 +40,13 @@ I am a final-year direct-entry PhD student at the Institute of Information Engin
   line-height: 1.5;
   vertical-align: baseline;
 }
-.pub-tag--acl     { background: #e8f0fe; color: #2457a7; }
-.pub-tag--emnlp   { background: #ede9fe; color: #6343a5; }
+.pub-tag--acl    { background: #ede9fe; color: #6343a5; }
+.pub-tag--emnlp  { background: #e0f2f1; color: #176b63; }
 .pub-tag--neurips { background: #fce7ed; color: #a52d55; }
-.pub-tag--cvpr    { background: #e0f2f1; color: #176b63; }
+.pub-tag--cvpr   { background: #e8f0fe; color: #2457a7; }
 .pub-tag--ijcai   { background: #fff0df; color: #9a5010; }
 .pub-tag--aaai    { background: #eaf3e3; color: #426b27; }
-.pub-tag--report  { background: #e8eef4; color: #405b73; }
+.pub-tag--report { background: #fff0df; color: #9a5010; }
 .pub-tag--preprint { background: #f0f1f3; color: #555d68; }
 .pub-tag--award   { background: #fff4cc; color: #805c00; }
 </style>
